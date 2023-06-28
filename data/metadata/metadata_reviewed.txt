@@ -1,4 +1,4 @@
-Filename	Sample_Type	Subject	Timepoint_min	Sampling_Location	Comments
+filename	ATTRIBUTE_Sample_Type	ATTRIBUTE_Subject	ATTRIBUTE_Timepoint_min	ATTRIBUTE_Sampling_Location	Comments
 bld_plt1_01_0_1.mzXML	plasma	Subject_1	0	not applicable	
 bld_plt1_01_120_1.mzXML	plasma	Subject_1	120	not applicable	
 bld_plt1_01_360_1.mzXML	plasma	Subject_1	360	not applicable	
