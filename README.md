@@ -12,9 +12,8 @@ Non-invasive drug monitoring is desirable as it improves patient experience. Ins
 
 Metabolomics mass spectrometry data are publicly available in the open .mzML/.mzXML format at:
 
-Students are divided into two groups. Group 1 will be working with skin samples collected from the forehead, whereas Group 2 will work skin samples collected from the forearm. Both groups 
-will be investigating whether their respective skin samples could be suitable for non-invasive drug monitoring by comparing them to the plasma samples collected from the same individuals. 
-Example notebooks and analyses are based on skin samples collected from the upper back. 
+As a student you will be divided into two groups. Group 1 will be working with skin samples collected from the forehead, whereas Group 2 will work on skin samples collected from the forearm. Both groups 
+will be investigating whether their respective skin samples could be suitable for non-invasive drug monitoring by comparing them to the plasma samples. The instructor team will be be working with skin samples collected from the upper back. 
 
 ## MZmine 3
 
@@ -25,6 +24,8 @@ downstream analysis]
 ## GNPS
 
 Mass spectral molecular networks of the data are publicly accessible through the links below.
+
+[GNPS team, please add links below after MZmine 3 team uploads data outputs]
 
 Example:
 Group 1:
