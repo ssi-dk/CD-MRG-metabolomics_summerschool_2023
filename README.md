@@ -10,7 +10,7 @@ Non-invasive drug monitoring is desirable as it improves patient experience. Ins
 
 ## Data
 
-Metabolomics mass spectrometry data are publicly available in the open .mzML/.mzXML format at:
+Metabolomics mass spectrometry data are publicly available in the open .mzML/.mzXML format at: [MSV000092307](ftp://massive.ucsd.edu/MSV000092307/)
 
 As a student you will be divided into two groups. Group 1 will be working with skin samples collected from the forehead, whereas Group 2 will work on skin samples collected from the forearm. Both groups 
 will be investigating whether their respective skin samples could be suitable for non-invasive drug monitoring by comparing them to the plasma samples. The instructor team will be be working with skin samples collected from the upper back. 
@@ -39,5 +39,6 @@ Group 2:
 
 ## Statistics
 
-Example jupyter notebooks used for data analysis are available in the subfolder [notebooks](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/notebooks). Interactive jupyter notebooks can be launched in binder here: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ssi-dk/CD-MRG-metabolomics_summerschool_2023/HEAD)
+Example jupyter notebooks used for data analysis are available in the subfolder [notebooks](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/notebooks). 
+Interactive jupyter notebooks can be launched in Google Colaboratory here:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssi-dk/CD-MRG-metabolomics_summerschool_2023/blob/main/) 
