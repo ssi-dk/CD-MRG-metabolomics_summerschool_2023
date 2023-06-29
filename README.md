@@ -18,7 +18,7 @@ Example notebooks and analyses are based on skin samples collected from the uppe
 
 ## MZmine 3
 
-Preprocessed data are available in the subfolders [data/mzmine_output/](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/data/mzmine_output). [We added some placeholders for now, MZmine 3 team, please replace with the corresponding outputs for 
+Preprocessed data are available in the subfolders [data/mzmine_output](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/data/mzmine_output). [We added some placeholders for now, MZmine 3 team, please replace with the corresponding outputs for 
 downstream analysis]
 
 
@@ -38,4 +38,5 @@ Group 2:
 
 ## Statistics
 
-Example jupyter notebooks used for data analysis are available in the subfolder notebooks. Interactive jupyter notebooks can be launched using Google Colab here: 
+Example jupyter notebooks used for data analysis are available in the subfolder [notebooks](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/notebooks). Interactive jupyter notebooks can be launched using Google Colab here: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssi-dk/CD-MRG-metabolomics_summerschool_2023/blob/main/notebooks)
