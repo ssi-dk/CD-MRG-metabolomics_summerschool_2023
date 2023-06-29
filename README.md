@@ -39,5 +39,5 @@ Group 2:
 
 ## Statistics
 
-Example jupyter notebooks used for data analysis are available in the subfolder [notebooks](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/notebooks). Interactive jupyter notebooks can be launched using Google Colaboratory here: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssi-dk/CD-MRG-metabolomics_summerschool_2023/blob/main/notebooks/)
+Example jupyter notebooks used for data analysis are available in the subfolder [notebooks](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/notebooks). Interactive jupyter notebooks can be launched in binder here: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ssi-dk/CD-MRG-metabolomics_summerschool_2023/HEAD)
