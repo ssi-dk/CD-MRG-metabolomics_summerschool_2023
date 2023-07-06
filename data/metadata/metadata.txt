@@ -1,173 +1,173 @@
-filename	ATTRIBUTE_Sample_Type	ATTRIBUTE_Subject	ATTRIBUTE_Timepoint_min	ATTRIBUTE_Sampling_Location
-bld_plt1_01_0_1.mzXML	plasma	Subject_1	0	not applicable
-bld_plt1_01_120_1.mzXML	plasma	Subject_1	120	not applicable
-bld_plt1_01_600_1.mzXML	plasma	Subject_1	600	not applicable
-bld_plt1_01_720_1.mzXML	plasma	Subject_1	720	not applicable
-bld_plt1_03_0_1.mzXML	plasma	Subject_3	0	not applicable
-bld_plt1_03_480_1.mzXML	plasma	Subject_3	480	not applicable
-bld_plt1_03_600_1.mzXML	plasma	Subject_3	600	not applicable
-bld_plt1_04_240_1.mzXML	plasma	Subject_4	240	not applicable
-bld_plt1_04_480_1.mzXML	plasma	Subject_4	480	not applicable
-bld_plt1_04_600_1.mzXML	plasma	Subject_4	600	not applicable
-bld_plt1_05_240_1.mzXML	plasma	Subject_5	240	not applicable
-bld_plt1_05_480_1.mzXML	plasma	Subject_5	480	not applicable
-bld_plt1_05_600_1.mzXML	plasma	Subject_5	600	not applicable
-bld_plt1_07_120_1.mzXML	plasma	Subject_7	120	not applicable
-bld_plt1_07_240_1.mzXML	plasma	Subject_7	240	not applicable
-bld_plt1_07_600_1.mzXML	plasma	Subject_7	600	not applicable
-bld_plt1_08_240_1.mzXML	plasma	Subject_8	240	not applicable
-bld_plt1_08_600_1.mzXML	plasma	Subject_8	600	not applicable
-bld_plt1_08_720_1.mzXML	plasma	Subject_8	720	not applicable
-bld_plt1_10_0_1.mzML	plasma	Subject_10	0	not applicable
-bld_plt1_10_120_1.mzML	plasma	Subject_10	120	not applicable
-bld_plt1_10_600_1.mzML	plasma	Subject_10	600	not applicable
-bld_plt1_blk_02.mzML	plasma_blank	not applicable	not applicable	not applicable
-bld_plt2_01_240_1.mzXML	plasma	Subject_1	240	not applicable
-bld_plt2_01_480_1.mzXML	plasma	Subject_1	480	not applicable
-bld_plt2_03_120_1.mzXML	plasma	Subject_3	120	not applicable
-bld_plt2_03_240_1.mzXML	plasma	Subject_3	240	not applicable
-bld_plt2_03_720_1.mzXML	plasma	Subject_3	720	not applicable
-bld_plt2_04_0_1.mzXML	plasma	Subject_4	0	not applicable
-bld_plt2_04_120_1.mzXML	plasma	Subject_4	120	not applicable
-bld_plt2_04_720_1.mzXML	plasma	Subject_4	720	not applicable
-bld_plt2_05_0_1.mzXML	plasma	Subject_5	0	not applicable
-bld_plt2_05_120_1.mzXML	plasma	Subject_5	120	not applicable
-bld_plt2_05_720_1.mzXML	plasma	Subject_5	720	not applicable
-bld_plt2_07_0_1.mzXML	plasma	Subject_7	0	not applicable
-bld_plt2_07_480_1.mzXML	plasma	Subject_7	480	not applicable
-bld_plt2_07_720_1.mzXML	plasma	Subject_7	720	not applicable
-bld_plt2_08_0_1.mzXML	plasma	Subject_8	0	not applicable
-bld_plt2_08_120_1.mzXML	plasma	Subject_8	120	not applicable
-bld_plt2_08_480_1.mzXML	plasma	Subject_8	480	not applicable
-bld_plt2_10_240_1.mzML	plasma	Subject_10	240	not applicable
-bld_plt2_10_480_1.mzXML	plasma	Subject_10	480	not applicable
-bld_plt2_10_720_1.mzML	plasma	Subject_10	720	not applicable
-bld_plt2_blk_04.mzML	plasma_blank	not applicable	not applicable	not applicable
-skin_01_0_FH.mzML	skin	Subject_1	0	forehead
-skin_01_0_OF.mzML	skin	Subject_1	0	forearm
-skin_01_0_UB.mzML	skin	Subject_1	0	upper back
-skin_01_120_FH.mzML	skin	Subject_1	120	forehead
-skin_01_120_OF.mzML	skin	Subject_1	120	forearm
-skin_01_120_UB.mzML	skin	Subject_1	120	upper back
-skin_01_240_FH.mzML	skin	Subject_1	240	forehead
-skin_01_240_OF.mzML	skin	Subject_1	240	forearm
-skin_01_240_UB.mzML	skin	Subject_1	240	upper back
-skin_01_480_FH.mzML	skin	Subject_1	480	forehead
-skin_01_480_OF.mzML	skin	Subject_1	480	forearm
-skin_01_480_UB.mzML	skin	Subject_1	480	upper back
-skin_01_600_FH.mzML	skin	Subject_1	600	forehead
-skin_01_600_OF.mzML	skin	Subject_1	600	forearm
-skin_01_600_UB.mzML	skin	Subject_1	600	upper back
-skin_01_720_FH.mzML	skin	Subject_1	720	forehead
-skin_01_720_OF.mzML	skin	Subject_1	720	forearm
-skin_01_720_UB.mzML	skin	Subject_1	720	upper back
-skin_03_0_FH.mzML	skin	Subject_3	0	forehead
-skin_03_0_OF.mzML	skin	Subject_3	0	forearm
-skin_03_0_UB.mzML	skin	Subject_3	0	upper back
-skin_03_120_FH.mzML	skin	Subject_3	120	forehead
-skin_03_120_OF.mzML	skin	Subject_3	120	forearm
-skin_03_120_UB.mzML	skin	Subject_3	120	upper back
-skin_03_240_FH.mzML	skin	Subject_3	240	forehead
-skin_03_240_OF.mzML	skin	Subject_3	240	forearm
-skin_03_240_UB.mzML	skin	Subject_3	240	upper back
-skin_03_480_FH.mzML	skin	Subject_3	480	forehead
-skin_03_480_OF.mzML	skin	Subject_3	480	forearm
-skin_03_480_UB.mzML	skin	Subject_3	480	upper back
-skin_03_600_FH.mzML	skin	Subject_3	600	forehead
-skin_03_600_OF.mzML	skin	Subject_3	600	forearm
-skin_03_600_UB.mzML	skin	Subject_3	600	upper back
-skin_03_720_FH.mzML	skin	Subject_3	720	forehead
-skin_03_720_OF.mzML	skin	Subject_3	720	forearm
-skin_03_720_UB.mzML	skin	Subject_3	720	upper back
-skin_04_0_FH.mzML	skin	Subject_4	0	forehead
-skin_04_0_OF.mzML	skin	Subject_4	0	forearm
-skin_04_0_UB.mzML	skin	Subject_4	0	upper back
-skin_04_120_FH.mzML	skin	Subject_4	120	forehead
-skin_04_120_OF.mzML	skin	Subject_4	120	forearm
-skin_04_120_UB.mzML	skin	Subject_4	120	upper back
-skin_04_240_FH.mzML	skin	Subject_4	240	forehead
-skin_04_240_OF.mzML	skin	Subject_4	240	forearm
-skin_04_240_UB.mzML	skin	Subject_4	240	upper back
-skin_04_480_FH.mzML	skin	Subject_4	480	forehead
-skin_04_480_OF.mzML	skin	Subject_4	480	forearm
-skin_04_480_UB.mzML	skin	Subject_4	480	upper back
-skin_04_600_FH.mzML	skin	Subject_4	600	forehead
-skin_04_600_OF.mzML	skin	Subject_4	600	forearm
-skin_04_600_UB.mzML	skin	Subject_4	600	upper back
-skin_04_720_FH.mzML	skin	Subject_4	720	forehead
-skin_04_720_OF.mzML	skin	Subject_4	720	forearm
-skin_04_720_UB.mzML	skin	Subject_4	720	upper back
-skin_05_0_FH.mzML	skin	Subject_5	0	forehead
-skin_05_0_OF.mzML	skin	Subject_5	0	forearm
-skin_05_0_UB.mzML	skin	Subject_5	0	upper back
-skin_05_120_FH.mzML	skin	Subject_5	120	forehead
-skin_05_120_OF.mzML	skin	Subject_5	120	forearm
-skin_05_120_UB.mzML	skin	Subject_5	120	upper back
-skin_05_240_FH.mzML	skin	Subject_5	240	forehead
-skin_05_240_OF.mzML	skin	Subject_5	240	forearm
-skin_05_240_UB.mzML	skin	Subject_5	240	upper back
-skin_05_480_FH.mzML	skin	Subject_5	480	forehead
-skin_05_480_OF.mzML	skin	Subject_5	480	forearm
-skin_05_480_UB.mzML	skin	Subject_5	480	upper back
-skin_05_600_FH.mzML	skin	Subject_5	600	forehead
-skin_05_600_OF.mzML	skin	Subject_5	600	forearm
-skin_05_600_UB.mzML	skin	Subject_5	600	upper back
-skin_05_720_FH.mzML	skin	Subject_5	720	forehead
-skin_05_720_OF.mzML	skin	Subject_5	720	forearm
-skin_05_720_UB.mzML	skin	Subject_5	720	upper back
-skin_07_0_FH.mzML	skin	Subject_7	0	forehead
-skin_07_0_OF.mzML	skin	Subject_7	0	forearm
-skin_07_0_UB.mzML	skin	Subject_7	0	upper back
-skin_07_120_FH.mzML	skin	Subject_7	120	forehead
-skin_07_120_OF.mzML	skin	Subject_7	120	forearm
-skin_07_120_UB.mzML	skin	Subject_7	120	upper back
-skin_07_240_FH.mzML	skin	Subject_7	240	forehead
-skin_07_240_OF.mzML	skin	Subject_7	240	forearm
-skin_07_240_UB.mzML	skin	Subject_7	240	upper back
-skin_07_480_FH.mzML	skin	Subject_7	480	forehead
-skin_07_480_OF.mzML	skin	Subject_7	480	forearm
-skin_07_480_UB.mzML	skin	Subject_7	480	upper back
-skin_07_600_FH.mzML	skin	Subject_7	600	forehead
-skin_07_600_OF.mzML	skin	Subject_7	600	forearm
-skin_07_600_UB.mzML	skin	Subject_7	600	upper back
-skin_07_720_FH.mzML	skin	Subject_7	720	forehead
-skin_07_720_OF.mzML	skin	Subject_7	720	forearm
-skin_07_720_UB.mzML	skin	Subject_7	720	upper back
-skin_08_0_FH.mzML	skin	Subject_8	0	forehead
-skin_08_0_OF.mzML	skin	Subject_8	0	forearm
-skin_08_0_UB.mzML	skin	Subject_8	0	upper back
-skin_08_120_FH.mzML	skin	Subject_8	120	forehead
-skin_08_120_OF.mzML	skin	Subject_8	120	forearm
-skin_08_120_UB.mzML	skin	Subject_8	120	upper back
-skin_08_240_FH.mzML	skin	Subject_8	240	forehead
-skin_08_240_OF.mzML	skin	Subject_8	240	forearm
-skin_08_240_UB.mzML	skin	Subject_8	240	upper back
-skin_08_480_FH.mzML	skin	Subject_8	480	forehead
-skin_08_480_OF.mzML	skin	Subject_8	480	forearm
-skin_08_480_UB.mzML	skin	Subject_8	480	upper back
-skin_08_600_FH.mzML	skin	Subject_8	600	forehead
-skin_08_600_OF.mzML	skin	Subject_8	600	forearm
-skin_08_600_UB.mzML	skin	Subject_8	600	upper back
-skin_08_720_FH.mzML	skin	Subject_8	720	forehead
-skin_08_720_OF.mzML	skin	Subject_8	720	forearm
-skin_08_720_UB.mzML	skin	Subject_8	720	upper back
-skin_10_0_FH.mzML	skin	Subject_10	0	forehead
-skin_10_0_OF.mzML	skin	Subject_10	0	forearm
-skin_10_0_UB.mzML	skin	Subject_10	0	upper back
-skin_10_120_FH.mzML	skin	Subject_10	120	forehead
-skin_10_120_OF.mzML	skin	Subject_10	120	forearm
-skin_10_120_UB.mzML	skin	Subject_10	120	upper back
-skin_10_240_FH.mzML	skin	Subject_10	240	forehead
-skin_10_240_OF.mzML	skin	Subject_10	240	forearm
-skin_10_240_UB.mzML	skin	Subject_10	240	upper back
-skin_10_480_FH.mzML	skin	Subject_10	480	forehead
-skin_10_480_OF.mzML	skin	Subject_10	480	forearm
-skin_10_480_UB.mzML	skin	Subject_10	480	upper back
-skin_10_600_FH.mzML	skin	Subject_10	600	forehead
-skin_10_600_OF.mzML	skin	Subject_10	600	forearm
-skin_10_600_UB.mzML	skin	Subject_10	600	upper back
-skin_10_720_FH.mzML	skin	Subject_10	720	forehead
-skin_10_720_OF.mzML	skin	Subject_10	720	forearm
-skin_10_720_UB.mzML	skin	Subject_10	720	upper back
-skin_blank_03.mzML	skin_blank	not applicable	not applicable	not applicable
-skin_blank_20.mzML	skin_blank	not applicable	not applicable	not applicable
+filename	ATTRIBUTE_Sample_Type	ATTRIBUTE_Subject	ATTRIBUTE_Timepoint_min	ATTRIBUTE_Sampling_Location	ATTRIBUTE_Analysis_order
+bld_plt1_01_0_1.mzML	plasma	Subject_1	0	not applicable	19
+bld_plt1_01_120_1.mzML	plasma	Subject_1	120	not applicable	32
+bld_plt1_01_600_1.mzML	plasma	Subject_1	600	not applicable	51
+bld_plt1_01_720_1.mzML	plasma	Subject_1	720	not applicable	50
+bld_plt1_03_0_1.mzML	plasma	Subject_3	0	not applicable	20
+bld_plt1_03_480_1.mzML	plasma	Subject_3	480	not applicable	52
+bld_plt1_03_600_1.mzML	plasma	Subject_3	600	not applicable	45
+bld_plt1_04_240_1.mzML	plasma	Subject_4	240	not applicable	29
+bld_plt1_04_480_1.mzML	plasma	Subject_4	480	not applicable	23
+bld_plt1_04_600_1.mzML	plasma	Subject_4	600	not applicable	3
+bld_plt1_05_240_1.mzML	plasma	Subject_5	240	not applicable	30
+bld_plt1_05_480_1.mzML	plasma	Subject_5	480	not applicable	43
+bld_plt1_05_600_1.mzML	plasma	Subject_5	600	not applicable	55
+bld_plt1_07_120_1.mzML	plasma	Subject_7	120	not applicable	34
+bld_plt1_07_240_1.mzML	plasma	Subject_7	240	not applicable	58
+bld_plt1_07_600_1.mzML	plasma	Subject_7	600	not applicable	47
+bld_plt1_08_240_1.mzML	plasma	Subject_8	240	not applicable	2
+bld_plt1_08_600_1.mzML	plasma	Subject_8	600	not applicable	39
+bld_plt1_08_720_1.mzML	plasma	Subject_8	720	not applicable	60
+bld_plt1_10_0_1.mzML	plasma	Subject_10	0	not applicable	28
+bld_plt1_10_120_1.mzML	plasma	Subject_10	120	not applicable	53
+bld_plt1_10_600_1.mzML	plasma	Subject_10	600	not applicable	41
+bld_plt1_blk_02.mzML	plasma_blank	not applicable	not applicable	not applicable	13
+bld_plt2_01_240_1.mzML	plasma	Subject_1	240	not applicable	72
+bld_plt2_01_480_1.mzML	plasma	Subject_1	480	not applicable	93
+bld_plt2_03_120_1.mzML	plasma	Subject_3	120	not applicable	67
+bld_plt2_03_240_1.mzML	plasma	Subject_3	240	not applicable	117
+bld_plt2_03_720_1.mzML	plasma	Subject_3	720	not applicable	69
+bld_plt2_04_0_1.mzML	plasma	Subject_4	0	not applicable	107
+bld_plt2_04_120_1.mzML	plasma	Subject_4	120	not applicable	101
+bld_plt2_04_720_1.mzML	plasma	Subject_4	720	not applicable	119
+bld_plt2_05_0_1.mzML	plasma	Subject_5	0	not applicable	75
+bld_plt2_05_120_1.mzML	plasma	Subject_5	120	not applicable	82
+bld_plt2_05_720_1.mzML	plasma	Subject_5	720	not applicable	113
+bld_plt2_07_0_1.mzML	plasma	Subject_7	0	not applicable	112
+bld_plt2_07_480_1.mzML	plasma	Subject_7	480	not applicable	99
+bld_plt2_07_720_1.mzML	plasma	Subject_7	720	not applicable	89
+bld_plt2_08_0_1.mzML	plasma	Subject_8	0	not applicable	84
+bld_plt2_08_120_1.mzML	plasma	Subject_8	120	not applicable	74
+bld_plt2_08_480_1.mzML	plasma	Subject_8	480	not applicable	62
+bld_plt2_10_240_1.mzML	plasma	Subject_10	240	not applicable	103
+bld_plt2_10_480_1.mzML	plasma	Subject_10	480	not applicable	90
+bld_plt2_10_720_1.mzML	plasma	Subject_10	720	not applicable	70
+bld_plt2_blk_04.mzML	plasma_blank	not applicable	not applicable	not applicable	97
+skin_01_0_FH.mzML	skin	Subject_1	0	forehead	461
+skin_01_0_OF.mzML	skin	Subject_1	0	forearm	394
+skin_01_0_UB.mzML	skin	Subject_1	0	upper back	224
+skin_01_120_FH.mzML	skin	Subject_1	120	forehead	418
+skin_01_120_OF.mzML	skin	Subject_1	120	forearm	128
+skin_01_120_UB.mzML	skin	Subject_1	120	upper back	390
+skin_01_240_FH.mzML	skin	Subject_1	240	forehead	243
+skin_01_240_OF.mzML	skin	Subject_1	240	forearm	175
+skin_01_240_UB.mzML	skin	Subject_1	240	upper back	194
+skin_01_480_FH.mzML	skin	Subject_1	480	forehead	392
+skin_01_480_OF.mzML	skin	Subject_1	480	forearm	138
+skin_01_480_UB.mzML	skin	Subject_1	480	upper back	455
+skin_01_600_FH.mzML	skin	Subject_1	600	forehead	291
+skin_01_600_OF.mzML	skin	Subject_1	600	forearm	410
+skin_01_600_UB.mzML	skin	Subject_1	600	upper back	347
+skin_01_720_FH.mzML	skin	Subject_1	720	forehead	158
+skin_01_720_OF.mzML	skin	Subject_1	720	forearm	365
+skin_01_720_UB.mzML	skin	Subject_1	720	upper back	372
+skin_03_0_FH.mzML	skin	Subject_3	0	forehead	260
+skin_03_0_OF.mzML	skin	Subject_3	0	forearm	129
+skin_03_0_UB.mzML	skin	Subject_3	0	upper back	272
+skin_03_120_FH.mzML	skin	Subject_3	120	forehead	425
+skin_03_120_OF.mzML	skin	Subject_3	120	forearm	185
+skin_03_120_UB.mzML	skin	Subject_3	120	upper back	367
+skin_03_240_FH.mzML	skin	Subject_3	240	forehead	154
+skin_03_240_OF.mzML	skin	Subject_3	240	forearm	131
+skin_03_240_UB.mzML	skin	Subject_3	240	upper back	187
+skin_03_480_FH.mzML	skin	Subject_3	480	forehead	430
+skin_03_480_OF.mzML	skin	Subject_3	480	forearm	302
+skin_03_480_UB.mzML	skin	Subject_3	480	upper back	248
+skin_03_600_FH.mzML	skin	Subject_3	600	forehead	320
+skin_03_600_OF.mzML	skin	Subject_3	600	forearm	142
+skin_03_600_UB.mzML	skin	Subject_3	600	upper back	375
+skin_03_720_FH.mzML	skin	Subject_3	720	forehead	310
+skin_03_720_OF.mzML	skin	Subject_3	720	forearm	312
+skin_03_720_UB.mzML	skin	Subject_3	720	upper back	258
+skin_04_0_FH.mzML	skin	Subject_4	0	forehead	201
+skin_04_0_OF.mzML	skin	Subject_4	0	forearm	220
+skin_04_0_UB.mzML	skin	Subject_4	0	upper back	407
+skin_04_120_FH.mzML	skin	Subject_4	120	forehead	200
+skin_04_120_OF.mzML	skin	Subject_4	120	forearm	314
+skin_04_120_UB.mzML	skin	Subject_4	120	upper back	135
+skin_04_240_FH.mzML	skin	Subject_4	240	forehead	358
+skin_04_240_OF.mzML	skin	Subject_4	240	forearm	188
+skin_04_240_UB.mzML	skin	Subject_4	240	upper back	166
+skin_04_480_FH.mzML	skin	Subject_4	480	forehead	402
+skin_04_480_OF.mzML	skin	Subject_4	480	forearm	167
+skin_04_480_UB.mzML	skin	Subject_4	480	upper back	412
+skin_04_600_FH.mzML	skin	Subject_4	600	forehead	444
+skin_04_600_OF.mzML	skin	Subject_4	600	forearm	442
+skin_04_600_UB.mzML	skin	Subject_4	600	upper back	296
+skin_04_720_FH.mzML	skin	Subject_4	720	forehead	236
+skin_04_720_OF.mzML	skin	Subject_4	720	forearm	278
+skin_04_720_UB.mzML	skin	Subject_4	720	upper back	376
+skin_05_0_FH.mzML	skin	Subject_5	0	forehead	470
+skin_05_0_OF.mzML	skin	Subject_5	0	forearm	357
+skin_05_0_UB.mzML	skin	Subject_5	0	upper back	333
+skin_05_120_FH.mzML	skin	Subject_5	120	forehead	289
+skin_05_120_OF.mzML	skin	Subject_5	120	forearm	371
+skin_05_120_UB.mzML	skin	Subject_5	120	upper back	170
+skin_05_240_FH.mzML	skin	Subject_5	240	forehead	344
+skin_05_240_OF.mzML	skin	Subject_5	240	forearm	438
+skin_05_240_UB.mzML	skin	Subject_5	240	upper back	160
+skin_05_480_FH.mzML	skin	Subject_5	480	forehead	136
+skin_05_480_OF.mzML	skin	Subject_5	480	forearm	251
+skin_05_480_UB.mzML	skin	Subject_5	480	upper back	343
+skin_05_600_FH.mzML	skin	Subject_5	600	forehead	356
+skin_05_600_OF.mzML	skin	Subject_5	600	forearm	274
+skin_05_600_UB.mzML	skin	Subject_5	600	upper back	308
+skin_05_720_FH.mzML	skin	Subject_5	720	forehead	254
+skin_05_720_OF.mzML	skin	Subject_5	720	forearm	303
+skin_05_720_UB.mzML	skin	Subject_5	720	upper back	459
+skin_07_0_FH.mzML	skin	Subject_7	0	forehead	212
+skin_07_0_OF.mzML	skin	Subject_7	0	forearm	240
+skin_07_0_UB.mzML	skin	Subject_7	0	upper back	149
+skin_07_120_FH.mzML	skin	Subject_7	120	forehead	346
+skin_07_120_OF.mzML	skin	Subject_7	120	forearm	364
+skin_07_120_UB.mzML	skin	Subject_7	120	upper back	389
+skin_07_240_FH.mzML	skin	Subject_7	240	forehead	256
+skin_07_240_OF.mzML	skin	Subject_7	240	forearm	157
+skin_07_240_UB.mzML	skin	Subject_7	240	upper back	137
+skin_07_480_FH.mzML	skin	Subject_7	480	forehead	133
+skin_07_480_OF.mzML	skin	Subject_7	480	forearm	329
+skin_07_480_UB.mzML	skin	Subject_7	480	upper back	363
+skin_07_600_FH.mzML	skin	Subject_7	600	forehead	471
+skin_07_600_OF.mzML	skin	Subject_7	600	forearm	439
+skin_07_600_UB.mzML	skin	Subject_7	600	upper back	227
+skin_07_720_FH.mzML	skin	Subject_7	720	forehead	396
+skin_07_720_OF.mzML	skin	Subject_7	720	forearm	362
+skin_07_720_UB.mzML	skin	Subject_7	720	upper back	453
+skin_08_0_FH.mzML	skin	Subject_8	0	forehead	219
+skin_08_0_OF.mzML	skin	Subject_8	0	forearm	231
+skin_08_0_UB.mzML	skin	Subject_8	0	upper back	398
+skin_08_120_FH.mzML	skin	Subject_8	120	forehead	237
+skin_08_120_OF.mzML	skin	Subject_8	120	forearm	443
+skin_08_120_UB.mzML	skin	Subject_8	120	upper back	432
+skin_08_240_FH.mzML	skin	Subject_8	240	forehead	440
+skin_08_240_OF.mzML	skin	Subject_8	240	forearm	209
+skin_08_240_UB.mzML	skin	Subject_8	240	upper back	155
+skin_08_480_FH.mzML	skin	Subject_8	480	forehead	413
+skin_08_480_OF.mzML	skin	Subject_8	480	forearm	335
+skin_08_480_UB.mzML	skin	Subject_8	480	upper back	422
+skin_08_600_FH.mzML	skin	Subject_8	600	forehead	285
+skin_08_600_OF.mzML	skin	Subject_8	600	forearm	421
+skin_08_600_UB.mzML	skin	Subject_8	600	upper back	379
+skin_08_720_FH.mzML	skin	Subject_8	720	forehead	195
+skin_08_720_OF.mzML	skin	Subject_8	720	forearm	380
+skin_08_720_UB.mzML	skin	Subject_8	720	upper back	476
+skin_10_0_FH.mzML	skin	Subject_10	0	forehead	305
+skin_10_0_OF.mzML	skin	Subject_10	0	forearm	400
+skin_10_0_UB.mzML	skin	Subject_10	0	upper back	307
+skin_10_120_FH.mzML	skin	Subject_10	120	forehead	460
+skin_10_120_OF.mzML	skin	Subject_10	120	forearm	203
+skin_10_120_UB.mzML	skin	Subject_10	120	upper back	221
+skin_10_240_FH.mzML	skin	Subject_10	240	forehead	325
+skin_10_240_OF.mzML	skin	Subject_10	240	forearm	355
+skin_10_240_UB.mzML	skin	Subject_10	240	upper back	262
+skin_10_480_FH.mzML	skin	Subject_10	480	forehead	349
+skin_10_480_OF.mzML	skin	Subject_10	480	forearm	373
+skin_10_480_UB.mzML	skin	Subject_10	480	upper back	384
+skin_10_600_FH.mzML	skin	Subject_10	600	forehead	326
+skin_10_600_OF.mzML	skin	Subject_10	600	forearm	204
+skin_10_600_UB.mzML	skin	Subject_10	600	upper back	351
+skin_10_720_FH.mzML	skin	Subject_10	720	forehead	169
+skin_10_720_OF.mzML	skin	Subject_10	720	forearm	208
+skin_10_720_UB.mzML	skin	Subject_10	720	upper back	478
+skin_blank_03.mzML	skin_blank	not applicable	not applicable	not applicable	147
+skin_blank_20.mzML	skin_blank	not applicable	not applicable	not applicable	322
