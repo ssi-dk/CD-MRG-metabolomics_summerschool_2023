@@ -27,9 +27,11 @@ Mass spectral molecular networks of the data are publicly accessible through the
 
 [GNPS team, please add links below after MZmine 3 team uploads data outputs]
 
-Example:
-Group 1:
-Group 2:
+Example: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=6c9c4b22970f448d933a6fc7fa13227e
+
+Group 1: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=a2baed56d46648898aad480f9e484160
+
+Group 2: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=ca64bf41771b4152a3f94cc09b93c546
 
 ## Sirius+CSI:FingerID
 
