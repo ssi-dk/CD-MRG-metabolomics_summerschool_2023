@@ -10,7 +10,7 @@ Non-invasive drug monitoring is desirable as it improves patient experience. Ins
 
 ## Data
 
-Metabolomics mass spectrometry data are publicly available in the open .mzML/.mzXML format at: [MSV000092389](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=c0f3e5587cb54a01ba5782ff7a442249)
+Metabolomics mass spectrometry data are publicly available in the open .mzML format at: [MSV000092389](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=c0f3e5587cb54a01ba5782ff7a442249).
 
 As a student you will be divided into two groups. Group 1 will be working with skin samples collected from the forehead, whereas Group 2 will work on skin samples collected from the forearm. Both groups 
 will be investigating whether their respective skin samples could be suitable for non-invasive drug monitoring by comparing them to the plasma samples. The instructor team will be be working with skin samples collected from the upper back. 
@@ -24,8 +24,6 @@ downstream analysis]
 ## GNPS
 
 Mass spectral molecular networks of the data are publicly accessible through the links below.
-
-[GNPS team, please add links below after MZmine 3 team uploads data outputs]
 
 Example: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=6c9c4b22970f448d933a6fc7fa13227e
 
