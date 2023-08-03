@@ -33,6 +33,20 @@ Group 2: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=ca64bf41771b4152a3f94c
 
 ## Sirius+CSI:FingerID
 
+Results are available as complete SIRIUS project spaces and via corresponding summary files.
+
+Summary files for molecular formula annotations (`formula_identifications.tsv`), molecular structure annotations (`compound_identifications.tsv`) and compound class annotations (`canopus_compound_summary.tsv`)
+can be found in subfolders of
+[data/sirius_output](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/data/sirius_output).
+
+Complete SIRIUS project spaces are available through the links below.
+
+Example:  https://upload.uni-jena.de/data/64cb6d9e183353.74747773/example-sirius-projectspace.zip
+
+Group1: https://upload.uni-jena.de/data/64cb6b5f245b16.51592951/group1-sirius-projectspace.zip
+
+Group2: https://upload.uni-jena.de/data/64cb6cbadf6b89.77294609/group2-sirius-projectspace.zip
+
 ## MS2LDA
 
 ## matchms
