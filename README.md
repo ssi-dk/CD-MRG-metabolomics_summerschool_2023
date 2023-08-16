@@ -49,6 +49,28 @@ Group2: https://upload.uni-jena.de/data/64cb6cbadf6b89.77294609/group2-sirius-pr
 
 ## MS2LDA
 
+Results are available through the provided GNPS and MS2LDA.org links below. Briefly, the GNPS-MS2LDA links provide quick insights
+in especially mass spectra that are linked to annotated Mass2Motifs from selected MotifSets from MotifDB. If there are un-annotated
+Mass2Motifs that require further investigation, the .dict file (downloaded from GNPS) can be uploaded into MS2LDA.org to explore the
+mass fragment and/or neutral loss features that are associated to the Mass2Motif. Further information such as statistics on how many
+mass spectra are connected to Mass2Motifs are also available.
+
+GNPS-MS2LDA results are available through the links below.
+
+Example: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=15fbb620a6f24582a8d1b25e54ecc2f5
+
+Group1: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=396fbe18da6d4da8aadf08afa8037614
+
+Group2: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=ab533f6174d84759af509792570814b7
+
+MS2LDA.org results are available through the links below.
+
+Example: https://ms2lda.org/basicviz/summary/2988/
+
+Group1: https://ms2lda.org/basicviz/summary/2990/
+
+Group2: https://ms2lda.org/basicviz/summary/2991/
+
 ## matchms
 
 ## Statistics
