@@ -41,11 +41,11 @@ can be found in subfolders of
 
 Complete SIRIUS project spaces are available through the links below.
 
-Example:  https://upload.uni-jena.de/data/64cb6d9e183353.74747773/example-sirius-projectspace.zip
+Example: https://upload.uni-jena.de/data/64d7efdfbb3653.86496924/example-sirius-projectspace-structure.zip
 
-Group1: https://upload.uni-jena.de/data/64cb6b5f245b16.51592951/group1-sirius-projectspace.zip
+Group1:  https://upload.uni-jena.de/data/64d7f213029d84.24043727/group1-sirius-projectspace-structure.zip
 
-Group2: https://upload.uni-jena.de/data/64cb6cbadf6b89.77294609/group2-sirius-projectspace.zip
+Group2:  https://upload.uni-jena.de/data/64d7f87637b3a7.69268724/group2-sirius-projectspace-structure.zip
 
 ## MS2LDA
 
