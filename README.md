@@ -47,6 +47,8 @@ Group1:  https://upload.uni-jena.de/data/64d7f213029d84.24043727/group1-sirius-p
 
 Group2:  https://upload.uni-jena.de/data/64d7f87637b3a7.69268724/group2-sirius-projectspace-structure.zip
 
+Custom Databases: https://upload.uni-jena.de/data/64df28e7adacf7.83901104/customdbs.zip
+
 ## MS2LDA
 
 Results are available through the provided GNPS and MS2LDA.org links below. Briefly, the GNPS-MS2LDA links provide quick insights
