@@ -17,15 +17,17 @@ will be investigating whether their respective skin samples could be suitable fo
 
 ## MZmine 3
 
-For this workshop we are using MZmine 3.9.0 (you can also try to reproduce with newer versions), download from: 
+For this workshop, we are using MZmine 3.9.0, downloaded from: 
 [https://github.com/mzmine/mzmine3/releases/tag/v3.9.0](https://github.com/mzmine/mzmine3/releases/tag/v3.9.0)
 
 **Download** the LC-MS/MS positive spectral library as JSON from https://mona.fiehnlab.ucdavis.edu/downloads 
-[MoNA](https://mona.fiehnlab.ucdavis.edu/rest/downloads/retrieve/7609a87b-5df1-4343-afe9-2016a3e79516)
-**Alternative link:** [Alternative: Uni cloud](https://uni-muenster.sciebo.de/s/WpPkau7H45bCSAB) 
 
-Preprocessed data are available in the subfolders [data/mzmine_output](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/data/mzmine_output). [We added some placeholders for now, MZmine 3 team, please replace with the corresponding outputs for 
-downstream analysis]
+[Direct MoNA link](https://mona.fiehnlab.ucdavis.edu/rest/downloads/retrieve/7609a87b-5df1-4343-afe9-2016a3e79516)
+[Alternative: Uni cloud](https://uni-muenster.sciebo.de/s/WpPkau7H45bCSAB) 
+
+**Important notice:**
+The further analysis uses the processed results that are available in the subfolders [data/mzmine_output](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/data/mzmine_output) of this repository. This is to ensure the same parameters and results for all participants to align the results of multiple tools. 
+**Please download these files for Wednesday**
 
 
 ## GNPS
