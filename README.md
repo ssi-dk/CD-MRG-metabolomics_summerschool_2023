@@ -58,6 +58,8 @@ Group2:  https://upload.uni-jena.de/data/64d7f87637b3a7.69268724/group2-sirius-p
 
 Custom Databases: https://upload.uni-jena.de/data/64df28e7adacf7.83901104/customdbs.zip
 
+Alternatively, you can download these files from [Google Drive](https://drive.google.com/drive/folders/19bY24agC-nqhbxIbIqSH4Z4m3ZmQZrX6?usp=drive_link).
+
 ## MS2LDA
 
 Results are available through the provided GNPS and MS2LDA.org links below. Briefly, the GNPS-MS2LDA links provide quick insights
