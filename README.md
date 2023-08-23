@@ -60,6 +60,8 @@ Custom Databases: https://upload.uni-jena.de/data/64df28e7adacf7.83901104/custom
 
 Alternatively, you can download these files from [Google Drive](https://drive.google.com/drive/folders/19bY24agC-nqhbxIbIqSH4Z4m3ZmQZrX6?usp=drive_link).
 
+(For Winodws, its probably best to use 7-Zip for extracting: https://www.7-zip.org/)
+
 ## MS2LDA
 
 Results are available through the provided GNPS and MS2LDA.org links below. Briefly, the GNPS-MS2LDA links provide quick insights
